@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Thambu",
+    "phone": "+918056843416",
+    "status": "sent",
+    "last_messages": [
+      "Class 6 weeks only",
+      "Okay",
+      "Hi Thambu, hope you're doing well!"
+    ]
+  },
+  {
+    "name": "Vino",
+    "phone": "+919791588075",
+    "status": "sent",
+    "last_messages": [
+      "?",
+      "My bot",
+      "Hello Vino, quick reminder about tomorrow."
+    ]
+  }
+]
